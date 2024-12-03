@@ -8,7 +8,7 @@ This project was developed and tested on Windows 10.
 ## Installation and Running Instructions
 
 ### Prerequisites
-- Python 3.8 or above
+- Python 3.9
 - Required Python packages:
   - numpy == 1.23.5
   - pandas
