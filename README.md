@@ -14,4 +14,4 @@ This project implements cone detection in 3D point cloud data using Python. The 
 
 Install dependencies using pip:
 ```bash
-pip install numpy pandas open3d scikit-learn
+pip install -r requirements.txt
