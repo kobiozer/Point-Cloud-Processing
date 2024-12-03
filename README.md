@@ -1,5 +1,4 @@
 # Point-Cloud-Processing
-# Cone Detection in 3D Point Clouds
 
 This project implements cone detection in 3D point cloud data using Python. The approach involves clustering the points with DBSCAN and applying geometric analysis to identify clusters resembling cones.
 
@@ -8,7 +7,7 @@ This project implements cone detection in 3D point cloud data using Python. The 
 ### Prerequisites
 - Python 3.8 or above
 - Required Python packages:
-  - numpy
+  - numpy == 1.23.5
   - pandas
   - open3d
   - scikit-learn
